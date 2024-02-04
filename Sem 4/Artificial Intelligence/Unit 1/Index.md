@@ -1,0 +1,8 @@
+1. [[Introduction of AI]]
+2. [[AI techniques]]
+3. [[space-state-search]]
+4. [[uninformed-searching]]
+5. [[informed-searching]]
+6. [[difference-between-informed-and-uninformed]]
+7. [[breadth-first-search]]
+8. [[depth-first-search]]
