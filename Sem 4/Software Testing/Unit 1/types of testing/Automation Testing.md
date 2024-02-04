@@ -1,0 +1,1 @@
+Automation testing is the use of specialized software to control the execution of tests and the comparison of actual outcomes with predicted outcomes. It involves the creation and execution of test cases and the validation of their results without human intervention. Automation testing is commonly used to increase the effectiveness, efficiency, and coverage of software testing.
