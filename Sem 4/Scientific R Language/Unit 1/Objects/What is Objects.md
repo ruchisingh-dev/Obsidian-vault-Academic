@@ -5,3 +5,4 @@ Here are some common **objects** in R:
 3. [[Matrix]]
 4. [[Factors]]
 5. [[Arrays]]
+6. [[Data frames]]

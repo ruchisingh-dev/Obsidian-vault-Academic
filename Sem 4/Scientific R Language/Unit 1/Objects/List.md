@@ -1,5 +1,4 @@
 In R, a list is a **versatile** and **flexible** data structure that can hold elements of different data types, including vectors, matrices, other lists, and even functions. Lists are useful for storing heterogeneous data and organizing complex data structures.
-
 ## Creating Lists
 - Use the `list()` function to create a list.
 - Elements within a list are enclosed in curly braces `{ }`.
